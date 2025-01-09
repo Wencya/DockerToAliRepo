@@ -18,4 +18,4 @@ neo4j:5.26.0-community-bullseye
 mysql:5.7
 tomcat:9
 nginx:1.27.2
-jenkins:2.479.3-lts
+jenkins:2.479.3
