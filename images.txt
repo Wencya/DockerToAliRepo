@@ -17,5 +17,4 @@ neo4j:5.26.0-community-bullseye
 #新增
 mysql:5.7
 tomcat:9
-redis
-ngnix
+nginx:1.27.2
